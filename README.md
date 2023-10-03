@@ -1,2 +1,2 @@
 # CodeSoft
-Task1
+Face Recognition system
